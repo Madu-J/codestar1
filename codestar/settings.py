@@ -97,7 +97,7 @@ CSRF_TRUSTED_ORIGINS = [
 
 
 
-    
+
     "https://*.herokuapp.com"
 ]
 
